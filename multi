@@ -1,0 +1,12 @@
+// app/page.tsx
+"use client";
+import { motion } from "framer-motion/client";
+
+// components/announcement-bar.tsx
+import { motion, AnimatePresence } from "framer-motion/client";
+
+// components/topup-form.tsx
+import { motion } from "framer-motion/client";
+
+// components/stock-catalog.tsx
+import { motion } from "framer-motion/client";
